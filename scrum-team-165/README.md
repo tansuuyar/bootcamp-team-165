@@ -6,7 +6,7 @@ Takım 165
 
 ## Takım Elemanları
 
-- Tansu Uyar: Product Owner
+- Tansu Uyar: Product Owner !!!
 - Melike Gensi: Scrum Master
 - Dönüşay Güneş: Team Member / Developer
 - Koray Bakırküre: Team Member / Developer
