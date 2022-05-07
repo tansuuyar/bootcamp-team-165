@@ -8,9 +8,9 @@ Takım 165
 
 - Tansu Uyar: Product Owner
 - Melike Gensi: Scrum Master
-- Dönüşay Güneş: Team Member/Developer
-- Koray Bakırküre: Team Member/Developer
-- Furkan Yavuz: Team Member/Developer
+- Dönüşay Güneş: Team Member / Developer
+- Koray Bakırküre: Team Member / Developer
+- Furkan Yavuz: Team Member / Developer
 ## Ürün İsmi
 
 --Movie App--
