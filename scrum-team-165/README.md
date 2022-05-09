@@ -17,22 +17,20 @@ Takım 165
 
 ## Ürün Açıklaması
 
-- Movie App uygulamamız ile insanların izlemek istediği filmlere ve dizilere daha kolay karar vermesini sağlayacağız. İçerisinde binlerce filmi barındıran uygulamamız aynı zamanda Netflix, Prime vb. platformlarda yayınlanıp yayınlanmadığını ve IMDB puanlarını da gösterecek.
+- Wedding App ile düğün yapmak isteyen çiftler düğünlerini uygulama üzerinden organize edebilecek. Uygulamada 
 
 ## Ürün Özellikleri
 
-- Filmleri türüne göre ayırma
-- Filmlerin yönetmen, aktör, aktris vb. bilgilerini posteriyle birlikte gösterme
-- IMDB ve Rotten Tomatoes puanlarını gösterme
-- Netflix'te ve Prime'da bulunurluğunu gösterme
+- Düğün tarihine göre geri sayım.
+- Checklist ile yapılacaklar listesi takibi.
+- Bütçe takibi ile ne kadar, nereye para harcandığının görünmesi.
+- Davetli takibi ve masa düzeni oluşturabilme.
+- Çeyiz bölümü ile alınacaklar listesi hazırlama.
+- Alışveriş bölümü ile çeyiz için alınacakların daha kolay alınabilmesi.
 
 ## Hedef Kitle
 
-- Netflix kullanıcıları
-- Prime kullanıcıları
-- Sinema severler
-- Dizi severler
-- 15 - 65 yaş arası kullanıcılar
+- Düğün yapıp evlenmeyi planlayan çiftler.
 
 ## Product Backlog URL
 
@@ -49,6 +47,7 @@ Takım 165
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
 
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
+- Backlog'lar vakit az olduğu için Product ve Yazılım Backlog'u şeklinde ikiye ayrıldı.
 
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 
@@ -70,6 +69,10 @@ Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için g
   - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır
   - Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
   - Unit test'ler için ayrılan efor/saat arttırılmalı 
+  
+  - Takım içinde görev dağılımı yapılmıştır. 
+  - Toplantı süresini daha kısa tutmaya karar verildi.
+  - https://github.com/tansuuyar/bootcamp-team-165/blob/main/scrum-team-165/ProjectManagement/Sprint1Documents/sprint.jpeg?raw=true
 
 -**Diğer Notlar**:
 - N/A
