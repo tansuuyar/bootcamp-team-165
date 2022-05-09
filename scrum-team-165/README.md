@@ -47,8 +47,8 @@ Takım 165
 
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 100 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in 30 ile başlamasına karar verildi
 
-- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
-- 
+- **Backlog düzeni ve Story seçimleri**:
+- Trello'da current sprintler devam eden görevleri gösterirken, tamamlanmış görevler done sekmesinde gösterilmektedir.
 - Backlog'lar vakit az olduğu için Product ve Yazılım Backlog'u şeklinde ikiye ayrıldı.
 
 - **Daily Scrum**:
@@ -68,6 +68,7 @@ Takım 165
  
 
 - **Sprint Review**: 
+- Uygulamanın ana özelliklerine karar verilmiş ve ne kadar sürede yapılacağı hesaplanmıştır. Yeterli süre olması durumunda eklenmesi istenen ekstra özellikler de not alınmıştır.
 
 
 - **Sprint Retrospective:**
