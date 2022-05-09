@@ -51,8 +51,9 @@ Takım 165
 
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats]
-- 
+- **Daily Scrum**:
+-  Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. 
+-  Haftada birkaç defa Google Meet üzerinden toplantılar yapılmıştır.
   ![Screenshot 1](https://github.com/tansuuyar/bootcamp-team-165/blob/main/scrum-team-165/ProjectManagement/Sprint1Documents/sprint.jpeg?raw=true)
 
 
