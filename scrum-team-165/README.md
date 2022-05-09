@@ -72,7 +72,7 @@ Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için g
   
   - Takım içinde görev dağılımı yapılmıştır. 
   - Toplantı süresini daha kısa tutmaya karar verildi.
-  - (https://github.com/tansuuyar/bootcamp-team-165/blob/main/scrum-team-165/ProjectManagement/Sprint1Documents/sprint.jpeg?raw=true)
+  (https://github.com/tansuuyar/bootcamp-team-165/blob/main/scrum-team-165/ProjectManagement/Sprint1Documents/sprint.jpeg?raw=true)
 
 -**Diğer Notlar**:
 - N/A
