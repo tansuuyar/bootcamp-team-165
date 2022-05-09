@@ -58,18 +58,25 @@ Takım 165
   ![Screenshot 1](https://github.com/tansuuyar/bootcamp-team-165/blob/main/scrum-team-165/ProjectManagement/Sprint1Documents/sprint.jpeg?raw=true)
   4 Mayıs 18.00 için toplantı belirlenmiş ve toplanılmıştır.
   ![Screenshot 2](https://github.com/tansuuyar/bootcamp-team-165/blob/main/scrum-team-165/ProjectManagement/Sprint1Documents/whatsapp.jpeg?raw=true)
-
+ 
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 1](https://github.com/tansuuyar/bootcamp-team-165/blob/main/scrum-team-165/ProjectManagement/Sprint1Documents/trello.1.jpeg?raw=true) 
 ![Backlog 2](https://github.com/tansuuyar/bootcamp-team-165/blob/main/scrum-team-165/ProjectManagement/Sprint1Documents/trello2.jpeg?raw=true) 
 
 
-- **Ürün Durumu**: Ekran görüntüleri:
+- **Ürün Durumu**: 
+- Pazar araştırması gerçekleştirildi.
+- Rakip analizi yapılarak öncelik özellikler belirlendi. 
+- User Flow çıkarılmaya başlandı. 
+- Backlog ataması gerçekleştirildi. 
  
 
 - **Sprint Review**: 
 - Uygulamanın ana özelliklerine karar verilmiş ve ne kadar sürede yapılacağı hesaplanmıştır. Yeterli süre olması durumunda eklenmesi istenen ekstra özellikler de not alınmıştır.
+-  6 Mayıs 13:15'te Sprint Review&Retrospective toplantısı gerçekleştirildi. 
+-  Yaklaşık 2 saatlik bir toplantı gerçekleştirildi. 
+  ![image](https://user-images.githubusercontent.com/38332091/167496703-b71d93bc-b7da-4757-9caa-012cea1e099c.png)
 
 
 - **Sprint Retrospective:**
