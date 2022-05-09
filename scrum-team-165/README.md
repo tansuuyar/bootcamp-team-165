@@ -35,6 +35,7 @@ Takım 165
 ## Product Backlog URL
 
 [Miro Backlog Board](https://miro.com/app/board/uXjVO5Sjh6M=/?share_link_id=947395021106)
+[Trello Backlog Board] (https://trello.com/b/E4wfYQy0/wedding-app)
 
 ---
 
@@ -44,7 +45,7 @@ Takım 165
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 100 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in 30 ile başlamasına karar verildi
 
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
 - Backlog'lar vakit az olduğu için Product ve Yazılım Backlog'u şeklinde ikiye ayrıldı.
@@ -55,6 +56,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 -  Whatsapp üzerinden iletişim sağlanmış fakat aktif kullanım için Slack üzerinden paylaşım yapılmaya karar verilmiştir.
 -  Haftada birkaç defa Google Meet üzerinden toplantılar yapılmıştır.
   ![Screenshot 1](https://github.com/tansuuyar/bootcamp-team-165/blob/main/scrum-team-165/ProjectManagement/Sprint1Documents/sprint.jpeg?raw=true)
+  4 Mayıs 18.00 için toplantı belirlenmiş ve toplanılmıştır.
   ![Screenshot 2](https://github.com/tansuuyar/bootcamp-team-165/blob/main/scrum-team-165/ProjectManagement/Sprint1Documents/whatsapp.jpeg?raw=true)
 
 
