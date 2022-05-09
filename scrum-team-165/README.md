@@ -48,9 +48,8 @@ Takım 165
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 100 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in 30 ile başlamasına karar verildi
 
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
+- 
 - Backlog'lar vakit az olduğu için Product ve Yazılım Backlog'u şeklinde ikiye ayrıldı.
-
-Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 
 - **Daily Scrum**:
 -  Whatsapp üzerinden iletişim sağlanmış fakat aktif kullanım için Slack üzerinden paylaşım yapılmaya karar verilmiştir.
