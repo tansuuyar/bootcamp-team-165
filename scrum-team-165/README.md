@@ -48,6 +48,7 @@ Takım 165
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 100 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in 30 ile başlamasına karar verildi
 
 - **Backlog düzeni ve Story seçimleri**:
+- Backlog düzeni ve iş dağılımı Trello üzerinden yapılmaktadır. Herbir task için eşit puanlama öngörülmüştür.
 - Trello'da current sprintler devam eden görevleri gösterirken, tamamlanmış görevler done sekmesinde gösterilmektedir.
 - Backlog'lar vakit az olduğu için Product ve Yazılım Backlog'u şeklinde ikiye ayrıldı.
 
