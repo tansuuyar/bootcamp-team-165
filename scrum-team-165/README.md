@@ -17,7 +17,7 @@ Takım 165
 
 ## Ürün Açıklaması
 
-- Wedding App ile düğün yapmak isteyen çiftler düğünlerini uygulama üzerinden organize edebilecek. Uygulamada 
+- Wedding App ile düğün yapmak isteyen çiftler düğünlerini uygulama üzerinden organize edebilecek. Uygulamaya eklenen özellikler sayesinde gelin ve damat düğünlerini daha kolay bir şekilde planlayabilecek.
 
 ## Ürün Özellikleri
 
