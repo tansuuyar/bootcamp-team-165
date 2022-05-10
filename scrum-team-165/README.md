@@ -66,6 +66,7 @@ Takım 165
 
 
 - **Ürün Durumu**: 
+Ekran Görüntüleri: Rakip analizi yapılarak tasarım için özellikler belirlendi. Tasarıma henüz başlanmadı. Sprint 2 için planlandı. 
 - Pazar araştırması gerçekleştirildi.
 - Rakip analizi yapılarak öncelik özellikler belirlendi. 
 - User Flow çıkarılmaya başlandı. 
@@ -83,6 +84,7 @@ Takım 165
  
   - Takım içinde görev dağılımı yapılmıştır. 
   - Toplantı süresini daha kısa tutmaya karar verildi.
+  - Toplantıları daha verimli kullanabilmek adına toplantı öncesi konuşulacak ana konuların belirlenmesine karar verildi. Her konu hakkında ekip üyelerine min 3 dakika verildi. Takım içerisindeki herkesin aktif rol almaya teşvik edildi. 
  
 -**Diğer Notlar**:
 - N/A
