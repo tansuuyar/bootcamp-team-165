@@ -48,7 +48,7 @@ Takım 165
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 100 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in 30 ile başlamasına karar verildi
 
 - **Backlog düzeni ve Story seçimleri**:
-- Backlog düzeni ve iş dağılımı Trello üzerinden yapılmaktadır. Herbir task için eşit puanlama öngörülmüştür.
+- Backlog düzeni ve iş dağılımı Trello üzerinden yapılmaktadır. Her bir task için eşit puanlama öngörülmüştür.
 - Trello'da current sprintler devam eden görevleri gösterirken, tamamlanmış görevler done sekmesinde gösterilmektedir.
 - Backlog'lar vakit az olduğu için Product ve Yazılım Backlog'u şeklinde ikiye ayrıldı.
 
@@ -93,7 +93,48 @@ Ekran Görüntüleri: Rakip analizi yapılarak tasarım için özellikler belirl
 
 # Sprint 2
 
+- **Sprint Notları**: Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 
+- **Sprint içinde tamamlanması tahmin edilen puan**: 30 Puan
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 100 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ikinci sprint'in 30 ile başlamasına karar verildi
+
+- **Backlog düzeni ve Story seçimleri**:
+- Backlog düzeni ve iş dağılımı Trello üzerinden yapılmaktadır. Her bir task için eşit puanlama öngörülmüştür.
+- Trello'da current sprintler devam eden görevleri gösterirken, tamamlanmış görevler done sekmesinde gösterilmektedir.
+- Backlog'lar vakit az olduğu için Product ve Yazılım Backlog'u şeklinde ikiye ayrıldı.
+
+- **Daily Scrum**:
+-  Whatsapp ve Slack üzerinden iletişim sağlanmasına karar verilmiştir.
+-  Ayrılan takımlar ilk kendi içlerinde iletişim kurmasına sonrasında ortak takım toplantısında bilgi paylaşılmasına karar verildi. 
+
+-  7 Mayıs 13:00 toplantı yapılmıştır. 
+  ![Screenshot 2022-05-07 141209](https://user-images.githubusercontent.com/38332091/168495432-c060b700-0395-4cee-9451-f4bde2bfc6e6.png)
+  Toplantı çıktıları: 
+  -Product ve Yazılım ekibinin aynı anda ilerlemesine karar verilmiştir. 
+  -Belirlenen belli özelliklerin tasarımına başlanılmıştır.
+  -Product tarafından belirlenen özelliklere uygun olarak yazılım ekibi gerekli alt yapıyı oluşturmaya başlamıştır.
+  
+  
+ 
+- **Sprint board update**: Sprint board screenshotları: 
+
+- **Ürün Durumu**: 
+Ürün Güncel Durumu (15 Mayıs)
+-Onboarding - Login / Sign up sayfaları ile tasarıma başlanılmıştır.
+![Image from iOS](https://user-images.githubusercontent.com/38332091/168495526-75a62084-5d41-470d-93e6-ba94c40f223d.png)
+![Image from iOS (1)](https://user-images.githubusercontent.com/38332091/168495522-111d8970-740a-4a1f-853a-6bfd68b2e244.png)
+![Image from iOS (2)](https://user-images.githubusercontent.com/38332091/168495519-34da031a-246d-4cc7-a428-2efb3fd9cac2.png)
+![Image from iOS (3)](https://user-images.githubusercontent.com/38332091/168495517-5c09de77-3675-4528-9aeb-190c4768581b.png)
+
+
+
+- **Sprint Review**: 
+- 
+
+- **Sprint Retrospective:**
+ 
+  - . 
 ---
 
 # Sprint 3
