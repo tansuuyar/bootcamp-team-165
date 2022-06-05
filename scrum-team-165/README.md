@@ -156,12 +156,12 @@ Ekran Görüntüleri: Rakip analizi yapılarak tasarım için özellikler belirl
 -  Yazılım ekibi arasındaki iletişim daha çok whatsapp üzerinden gerçekleştirildi.
 
 -  5 Haziran toplantı yapılmıştır. 
-  ![Screenshot 2022-05-07 141209](https://user-images.githubusercontent.com/38332091/168495432-c060b700-0395-4cee-9451-f4bde2bfc6e6.png)
+  Gorsel 
   Toplantı çıktıları: 
-  -Yazılım ekibinin yazdığı kodlar tek kişide birleştirilmiştir.
-  -Yazılanan ürünün Github platformuna yüklenmesi için gerekli görev ataması yapılmıştır.
-  -Belirlenen belli özelliklerden kalan tasarımların düzenlemesi yapılmıştır.
-  -Teslim tarihi yaklaştığı için son düzenlemeler ve kararlar verilmiştir.
+-Yazılım ekibinin yazdığı kodlar tek kişide birleştirilmiştir.
+-Yazılanan ürünün Github platformuna yüklenmesi için gerekli görev ataması yapılmıştır.
+-Belirlenen belli özelliklerden kalan tasarımların düzenlemesi yapılmıştır.
+-Teslim tarihi yaklaştığı için son düzenlemeler ve kararlar verilmiştir.
   
 - **Sprint board update**: Sprint board screenshotları: 
 
