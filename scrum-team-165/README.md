@@ -156,7 +156,8 @@ Ekran Görüntüleri: Rakip analizi yapılarak tasarım için özellikler belirl
 -  Yazılım ekibi arasındaki iletişim daha çok whatsapp üzerinden gerçekleştirildi.
 
 -  5 Haziran toplantı yapılmıştır. 
-  ![Backlog 1](https://github.com/tansuuyar/bootcamp-team-165/blob/main/scrum-team-165/ProjectManagement/Sprint1Documents/wed1.jpeg?raw=true) 
+  ![Backlog 1](https://github.com/tansuuyar/bootcamp-team-165/blob/main/scrum-team-165/ProjectManagement/Sprint1Documents/toplantı.jpeg?raw=true) 
+  
   Toplantı çıktıları: 
 -Yazılım ekibinin yazdığı kodlar tek kişide birleştirilmiştir.
 -Yazılanan ürünün Github platformuna yüklenmesi için gerekli görev ataması yapılmıştır.
@@ -170,9 +171,13 @@ Ekran Görüntüleri: Rakip analizi yapılarak tasarım için özellikler belirl
 -Onboarding - Login / Sign up sayfaları tasarımları tamamlanmıştır.
 -Ekip tarafından belirlenen yüksek öncelikli özellikler kodlanmıştır.
 -Ekstra ve daha az öneme sahip özellikle "coming soon" olarak belirtilmiştir.
-görsel 
-görsel
-görsel
+   ![Backlog 1](https://github.com/tansuuyar/bootcamp-team-165/blob/main/scrum-team-165/ProjectManagement/Sprint1Documents/wed1.jpeg?raw=true) 
+   ![Backlog 1](https://github.com/tansuuyar/bootcamp-team-165/blob/main/scrum-team-165/ProjectManagement/Sprint1Documents/wed2.jpeg?raw=true) 
+   ![Backlog 1](https://github.com/tansuuyar/bootcamp-team-165/blob/main/scrum-team-165/ProjectManagement/Sprint1Documents/wed3.jpeg?raw=true) 
+   ![Backlog 1](https://github.com/tansuuyar/bootcamp-team-165/blob/main/scrum-team-165/ProjectManagement/Sprint1Documents/wed4.jpeg?raw=true) 
+   ![Backlog 1](https://github.com/tansuuyar/bootcamp-team-165/blob/main/scrum-team-165/ProjectManagement/Sprint1Documents/wed5.jpeg?raw=true) 
+   ![Backlog 1](https://github.com/tansuuyar/bootcamp-team-165/blob/main/scrum-team-165/ProjectManagement/Sprint1Documents/wed6.jpeg?raw=true) 
+   ![Backlog 1](https://github.com/tansuuyar/bootcamp-team-165/blob/main/scrum-team-165/ProjectManagement/Sprint1Documents/wed7.jpeg?raw=true) 
 
 - **Sprint Review**: 
 - 5 Haziran tarihinde Sprint Review&Retrospective toplantısı gerçekleştirildi.
