@@ -139,9 +139,6 @@ Ekran Görüntüleri: Rakip analizi yapılarak tasarım için özellikler belirl
 
 # Sprint 3
 
-
-# Sprint 2
-
 - **Sprint Notları**: Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 40 Puan
@@ -156,34 +153,34 @@ Ekran Görüntüleri: Rakip analizi yapılarak tasarım için özellikler belirl
 - **Daily Scrum**:
 -  Whatsapp ve Slack üzerinden iletişim sağlanmasına karar verilmiştir.
 -  Ayrılan takımlar ilk kendi içlerinde iletişim kurmasına sonrasında ortak takım toplantısında bilgi paylaşılmasına karar verildi. 
+-  Yazılım ekibi arasındaki iletişim daha çok whatsapp üzerinden gerçekleştirildi.
 
--  7 Mayıs 13:00 toplantı yapılmıştır. 
+-  5 Haziran toplantı yapılmıştır. 
   ![Screenshot 2022-05-07 141209](https://user-images.githubusercontent.com/38332091/168495432-c060b700-0395-4cee-9451-f4bde2bfc6e6.png)
   Toplantı çıktıları: 
-  -Product ve Yazılım ekibinin aynı anda ilerlemesine karar verilmiştir. 
-  -Belirlenen belli özelliklerin tasarımına başlanılmıştır.
-  -Product tarafından belirlenen özelliklere uygun olarak yazılım ekibi gerekli alt yapıyı oluşturmaya başlamıştır.
+  -Yazılım ekibinin yazdığı kodlar tek kişide birleştirilmiştir.
+  -Yazılanan ürünün Github platformuna yüklenmesi için gerekli görev ataması yapılmıştır.
+  -Belirlenen belli özelliklerden kalan tasarımların düzenlemesi yapılmıştır.
+  -Teslim tarihi yaklaştığı için son düzenlemeler ve kararlar verilmiştir.
   
-  
- 
 - **Sprint board update**: Sprint board screenshotları: 
 
 - **Ürün Durumu**: 
-Ürün Güncel Durumu (15 Mayıs)
--Onboarding - Login / Sign up sayfaları ile tasarıma başlanılmıştır.
-![Image from iOS](https://user-images.githubusercontent.com/38332091/168495526-75a62084-5d41-470d-93e6-ba94c40f223d.png)
-![Image from iOS (1)](https://user-images.githubusercontent.com/38332091/168495522-111d8970-740a-4a1f-853a-6bfd68b2e244.png)
-![Image from iOS (2)](https://user-images.githubusercontent.com/38332091/168495519-34da031a-246d-4cc7-a428-2efb3fd9cac2.png)
-![Image from iOS (3)](https://user-images.githubusercontent.com/38332091/168495517-5c09de77-3675-4528-9aeb-190c4768581b.png)
-
-
+Ürün Güncel Durumu (5 Haziran)
+-Onboarding - Login / Sign up sayfaları tasarımları tamamlanmıştır.
+-Ekip tarafından belirlenen yüksek öncelikli özellikler kodlanmıştır.
+-Ekstra ve daha az öneme sahip özellikle "coming soon" olarak belirtilmiştir.
+görsel 
+görsel
+görsel
 
 - **Sprint Review**: 
-- 
+- 5 Haziran tarihinde Sprint Review&Retrospective toplantısı gerçekleştirildi.
+-Ekip tarafından belirlenen yüksek öncelikli özellikler kodlanmıştır.
+-Ekstra ve daha az öneme sahip özellikle "coming soon" olarak belirtilmiştir.
 
 - **Sprint Retrospective:**
- 
-  - . 
+- Kalan iş dağışımları gerçekleştirildi. 
 ---
 
 ---
