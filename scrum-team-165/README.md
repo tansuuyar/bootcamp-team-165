@@ -178,6 +178,7 @@ Ekran Görüntüleri: Rakip analizi yapılarak tasarım için özellikler belirl
    ![Backlog 1](https://github.com/tansuuyar/bootcamp-team-165/blob/main/scrum-team-165/ProjectManagement/Sprint1Documents/wed5.jpeg?raw=true) 
    ![Backlog 1](https://github.com/tansuuyar/bootcamp-team-165/blob/main/scrum-team-165/ProjectManagement/Sprint1Documents/wed6.jpeg?raw=true) 
    ![Backlog 1](https://github.com/tansuuyar/bootcamp-team-165/blob/main/scrum-team-165/ProjectManagement/Sprint1Documents/wed7.jpeg?raw=true) 
+   ![Backlog 1](https://github.com/tansuuyar/bootcamp-team-165/blob/main/scrum-team-165/ProjectManagement/Sprint1Documents/wed8.jpeg?raw=true) 
 
 - **Sprint Review**: 
 - 5 Haziran tarihinde Sprint Review&Retrospective toplantısı gerçekleştirildi.
