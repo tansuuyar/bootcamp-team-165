@@ -156,7 +156,7 @@ Ekran Görüntüleri: Rakip analizi yapılarak tasarım için özellikler belirl
 -  Yazılım ekibi arasındaki iletişim daha çok whatsapp üzerinden gerçekleştirildi.
 
 -  5 Haziran toplantı yapılmıştır. 
-  Gorsel 
+  ![Backlog 1](https://github.com/tansuuyar/bootcamp-team-165/blob/main/scrum-team-165/ProjectManagement/Sprint1Documents/wed1.jpeg?raw=true) 
   Toplantı çıktıları: 
 -Yazılım ekibinin yazdığı kodlar tek kişide birleştirilmiştir.
 -Yazılanan ürünün Github platformuna yüklenmesi için gerekli görev ataması yapılmıştır.
